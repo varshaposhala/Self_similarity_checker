@@ -1,5 +1,0 @@
-streamlit
-google-generativeai
-numpy
-pandas
-scikit-learn
